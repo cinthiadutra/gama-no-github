@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948366603247",
+    "project_id": "payplow-f7d48",
+    "storage_bucket": "payplow-f7d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948366603247:android:eecce132cbda7da320fc1a",
+        "android_client_info": {
+          "package_name": "com.example.projeto_nlw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948366603247-8qh5p7i8s7uts72aokhd1dds8qso24i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhVBYpo2vDWGa47hl2K6F3NEqgOMsOVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948366603247-8qh5p7i8s7uts72aokhd1dds8qso24i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
